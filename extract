@@ -1,0 +1,3 @@
+if($fileExt != $mimeExt && ($mimeExt == 'jpeg' && $fileExt == 'jpg')){
+				$errors[] = 'The file extension does not much the file.';
+			}

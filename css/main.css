@@ -1,0 +1,55 @@
+.img-thumb{
+	max-width:200px;
+	height:200px;
+}
+#footer{
+	margin-top:50px;
+}
+fotorama__wrap{
+	width: 90%;
+	margin: 15px auto;
+}
+
+#item{
+	background-color: #ffffff;
+	margin: 5px;
+
+	
+}
+.item{
+	display: inline-block;
+}
+.table-auto{
+	width: auto;
+	margin: 0 auto;
+}
+#add-product-btn{
+	margin-top: -35px;
+}
+.saved-image{
+	text-align:center;
+}
+.saved-image img{
+	width: auto;
+	height: 150px;
+}
+#login-form{
+	width: 50%;
+	height: 60%;
+	
+	box-shadow:  4px 4px 8px rgba(0, 0, 0, 0.2);
+	margin: 8% auto;
+	padding: 15px;
+	
+}
+
+.totals-table-header th{
+	text-align: center;
+}
+.container-fluid{
+	margin-top: 50px;
+}
+
+.toggle-sidebar{
+	display: none;
+}
